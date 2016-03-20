@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+.main
+{
+	margin:0;
+	padding:0;
+	background-color:#E9E9E9;
+	font-family:Calibri;
+}
+.head
+{
+	background-color:#62ACA6;
+	padding:0; 
+	margin:0;
+	height:50px;
+}
+.lis
+{
+	text-decoration:none;
+	color:#FFFFFF;
+	font-size:20px;
+	padding-top:10px;
+	padding-left:10px;
+}
+.headtext
+{
+	padding-bottom:30px; 
+	margin-left:400px;
+	font-family:Calibri;
+	color:#FFFFFF;
+	font-size:28px;
+}
+.sign
+{
+	text-decoration:none;
+	float:right;
+	color:#FFFFFF;
+	font-family:Calibri;
+	font-size:20px;
+	padding-top:10px;
+	margin-right:20px;
+}
+.sin
+{
+	position:absolute;
+	top:50px;
+	left:400px;
+}
+.frm
+{
+
+}
+.sign:hover
+{
+	color:#22932F;
+}
+.lis:hover
+{
+	color:#22932F;
+}
+.toll
+{
+	border:outset; 
+	height:400px;
+	width:550px; 
+	margin-left:0px; 
+	margin-top:50px;
+	border-color:#F3F3F3; 
+	background-color:#FFFFFF; 
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19); 
+	color:#62ACA6;
+	font-family:Calibri;
+	font-size:17px;
+}
+.tolis
+{
+}
